@@ -34,12 +34,14 @@ th{
     text-align: left;
     height: 70px;
     padding-left: 20px;
+    color: white;
 }
 td{
     font-size: 25px;
     height: 70px;
     width: 350px;
     padding-left: 20px;
+    color: white;
 }
 tr:nth-child(odd){
     background-color: #242E38;
@@ -82,6 +84,7 @@ button{
     justify-content: center;
     background-color: #2C3844;
     font-size: 25px;
+    color: white;
 }
 .last-row > span{
     padding-top: 20px;
